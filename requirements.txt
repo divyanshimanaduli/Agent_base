@@ -2,3 +2,4 @@ langgraph
 langchain
 langchain-community
 cohere
+tavily-python
